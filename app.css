@@ -1,0 +1,42 @@
+body,html {
+    margin:0;
+}
+
+
+footer {
+background-color: black;
+height: 20vh;
+width:100vw;
+bottom: 0%;
+position:fixed;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.box1{
+width: 200px;
+height:100px;
+background-color:yellow;
+margin:70px;
+flex-direction: row;
+
+}
+
+header {
+    width: 100vw;
+    height: 15vh;
+    background-color: antiquewhite;
+    position: relative;
+
+}
+
+#rightbox{ 
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
