@@ -22,3 +22,21 @@ margin:70px;
 flex-direction: row;
 
 }
+
+header {
+    width: 100vw;
+    height: 15vh;
+    background-color: antiquewhite;
+    position: relative;
+
+}
+
+#rightbox{ 
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
