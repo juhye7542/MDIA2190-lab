@@ -1,7 +1,4 @@
-var press_button = true
 
-if (press_button = true){
-
+function press_button(){
     document.querySelector('#main').style.right = "0px"
-    press_button = false
 }
